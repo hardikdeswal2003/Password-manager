@@ -1,16 +1,16 @@
 import React from "react";
 
-const hashnode = "http://geobrodas.hashnode.dev";
+const hashnode = "https://instagram.com/hardik_deswal?igshid=OGQ5ZDc2ODk2ZA==";
 
 function Footer() {
   return (
     <div className="footer">
-      <p>App by Georgey</p>
+      <p>App by Hardik & Bhupesh</p>
       <p>
         Follow On{" "}
         <strong>
           <a href={hashnode} rel="noreferrer" target="_blank">
-            Hashnode
+            Instagram
           </a>
         </strong>
       </p>
